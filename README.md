@@ -1,6 +1,6 @@
 # deep-learning-project
 
-This is the repository for our Deep Learning course.
+This is the repository for our Deep Learning course in Fall 2020 at University of Utah.
 
 In this project, using neural networks, we will do classification tasks on the Geolife GPS Trajectory Dataset released by Microsoft.
 
