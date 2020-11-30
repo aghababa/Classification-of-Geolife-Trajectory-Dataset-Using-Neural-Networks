@@ -17,4 +17,4 @@ Team Members: Hasan Pourmahmoodaghababa, Ali Hassandokht Mashhadi, Behnam Sheraa
 Pn November 29, we uploaded the mapped data from our trajectory data to R^20, R^50 and R^250 under two different feature 
 mappings appeared in our refrences [1,2]. They are stored in folders Mapped-Data, Mappead-Data-50-dim and Mapped-Data-250-dim, respectively.
 
-The processing codes in python language are uploaded in the folder. 
+The processing codes in python language are uploaded in the Pre-processing-codes folder. 
