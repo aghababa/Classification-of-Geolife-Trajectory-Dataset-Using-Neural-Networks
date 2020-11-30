@@ -17,4 +17,9 @@ Team Members: Hasan Pourmahmoodaghababa, Ali Hassandokht Mashhadi, Behnam Sheraa
 Pn November 29, we uploaded the mapped data from our trajectory data to R^20, R^50 and R^250 under two different feature 
 mappings appeared in our refrences [1,2]. They are stored in folders Mapped-Data, Mappead-Data-50-dim and Mapped-Data-250-dim, respectively.
 
+Landmarks employed for creating these datasets are stored in Landmarks folder in csv format. The first one with 
+size 20 is handpiched from near the mean and median of waypoints of the trajectories. The second one with size 50 
+is handpicked from a map visualization of all trajectories in such a way that they are chosen to be near to a group 
+of trajectores. The last one with size 250 is constructed by 200 gridding points plus previously chosen 50 points from the map. 
+
 The processing codes in python language are uploaded in the Pre-processing-codes folder. 
