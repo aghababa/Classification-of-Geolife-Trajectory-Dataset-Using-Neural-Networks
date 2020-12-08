@@ -14,7 +14,7 @@ their trajectories with transportation mode as car, bus, walk or train.
 Team Members: Hasan Pourmahmoodaghababa, Ali Hassandokht Mashhadi, Behnam Sheraafat
 
 
-Pn November 29, we uploaded the mapped data from our trajectory data to R^20, R^50 and R^250 under two different feature 
+In November 29, we uploaded the mapped data from our trajectory data to R^20, R^50 and R^250 under two different feature 
 mappings appeared in our refrences [1,2]. They are stored in folders Mapped-Data, Mappead-Data-50-dim and Mapped-Data-250-dim, respectively.
 
 Landmarks employed for creating these datasets are stored in Landmarks folder in csv format. The first one with 
