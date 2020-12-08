@@ -22,4 +22,4 @@ size 20 is handpiched from near the mean and median of waypoints of the trajecto
 is handpicked from a map visualization of all trajectories in such a way that they are chosen to be near to a group 
 of trajectores. The last one with size 250 is constructed by 200 gridding points plus previously chosen 50 points from the map. 
 
-The processing codes in python language are uploaded in the Pre-processing-codes folder. 
+The preprocessing codes in python language are uploaded in the Pre-processing-codes folder. 
